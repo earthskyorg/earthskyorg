@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
-- Contact to me: bestlucky1030@gmail.com
+- Contact to me: xsmartcoder01@gmail.com
 - Past Projects and Portfolio: 
-  - <a href="https://venture-project-portfolio.vercel.app">Portfolio</a>
-  - <a href="https://github.com/best-lucky1030/NFT-Projects-Overview">NFT Projects Overview</a>
+  - <a href="https://mysticbets.io">Portfolio</a>
+  - <a href="https://github.com/SmartGru25/Projects-Overview">My Past Projects Overview</a>
 
 <h4 align="center">
-  <i><b>8 years of experience with Software(web and app) development and 3 years of Blockchain Space.</i>
+  <i><b>10 years of experience in WebApp Development and 5 years of experience in Blockchain Web3 Space.</i>
 <br />
 As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
@@ -62,8 +62,8 @@ As a creative & passionate developer, and fast learner with detail and high qual
   
 ⚡ These are languages and frameworks I mostly use:
   
-- Rust and Anchor framework
 - Solidity programming (ERC-20, 721, 721A, 1155) to write various contracts
+- Rust and Anchor framework
 - Web3 integration
 - Next.js or Nuxt.js or Angular
 - Node or Go or Python or Ruby or Laravel
