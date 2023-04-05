@@ -53,8 +53,8 @@ As a creative & passionate developer, and fast learner with detail and high qual
   
 ## 📈 Github Status
 <p>
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=best-lucky1030&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=best-lucky1030&sshow_icons=true&theme=radical&count_private=true">
+<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartGru25&exclude_repo=SmartGru25.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=SmartGru25&sshow_icons=true&theme=radical&count_private=true">
 </p>
 
 <details>
