@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=smartgru25&color=yellow)
 
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
-- Contact to me: mike.nktech@gmail.com
+- Contact to me at any time if you have something to need my help
 
 <h4 align="center">
   <i><b>10 years of experience in WebApp Development and 5 years of experience in Blockchain Web3 Space.</i>
