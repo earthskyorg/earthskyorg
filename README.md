@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=smartgru25&color=yellow)
 
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
-- Contact to me: xsmartcoder01@gmail.com
-- Past Projects and Portfolio: 
-  - <a href="https://mysticbets.io">Portfolio</a>
-  - <a href="https://github.com/SmartGru25/Projects-Overview">My Past Projects Overview</a>
+- Contact to me: mike.nktech@gmail.com
 
 <h4 align="center">
   <i><b>10 years of experience in WebApp Development and 5 years of experience in Blockchain Web3 Space.</i>
