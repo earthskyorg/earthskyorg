@@ -33,11 +33,6 @@ As a creative & passionate developer, and fast learner with detail and high qual
 <!-- ## 👨‍💻 Currently working in [MetaKongz](https://www.metakongz.art) as Team Member and [Discord](https://discord.gg/metakongzgc) Server.
 
 ![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500) -->
-  
-## 👨‍💻 Currently working in [Cyber Wolves Society](https://twitter.com/cyberwolvessoc) as Lead and [Discord](https://discord.gg/vV5VbxKG) Server.
-
-<!-- ![](https://minionicious.files.wordpress.com/2016/08/dave2.png) -->
-![CWS](https://user-images.githubusercontent.com/89365150/202695915-8e27499d-c325-49e8-8d1e-9e8ccd88d673.png)
 
 
 ## 🌱 Experience
