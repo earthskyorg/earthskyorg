@@ -35,7 +35,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 ![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500) -->
 
 
-## 🌱 Experience
+## 🌱 Experience & Interests
 
 - Various kinds of Websites and Applications such as B2B, B2C, CRM, Rental Estate, Booking, Fintech, Fitness, Ecommerce platforms, etc
 - Several NFT projects including Minting, Staking, Evolution/Breeding, Raffle/Auction houses, Launchpad, Marketplace
