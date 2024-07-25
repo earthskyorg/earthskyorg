@@ -1,7 +1,7 @@
 ### Hi, everyone! 👋🙋‍♂️
 
 <!--
-**smartgru25/smartgru25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**earthskyorg/earthskyorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=smartgru25&color=yellow)
+![](https://komarev.com/ghpvc/?username=earthskyorg&color=yellow)
 
 - 🤝 💖 👪 Follow Me via Git. ⚽ 🥰 🏆
 - Contact to me at any time if you have something to need my help
@@ -45,8 +45,8 @@ As a creative & passionate developer, and fast learner with detail and high qual
   
 ## 📈 Github Status
 <p>
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartGru25&exclude_repo=SmartGru25.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=SmartGru25&sshow_icons=true&theme=radical&count_private=true">
+<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthskyorg&exclude_repo=earthskyorg.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=earthskyorg&sshow_icons=true&theme=radical&count_private=true">
 </p>
 
 <details>
