@@ -2,7 +2,7 @@
 
 <!-- ![pump.fun fork, pump.fun bundling, meme coin launchpad, web3 game development, jackpot, crash, minesweeper, tower, dice, bot development, cli bot, telegram bot, solana token sniper, discord bot](./git/slider.gif) -->
 
-#### Website: [https://www.earthsky.io](https://www.earthsky.io)
+#### Website: [https://www.earthsky.inc](https://www.earthsky.inc)
 
 🌱 Experience & Interests
 
