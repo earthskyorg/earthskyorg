@@ -7,9 +7,9 @@
 🌱 Experience & Interests
 
 - Various kinds of Websites and Applications such as B2B, B2C, CRM, Rental Estate, Booking, Fintech, Fitness, Ecommerce platforms, etc
-- Several NFT projects including Minting, Staking, Evolution/Breeding, Raffle/Auction houses, Launchpad, Marketplace
+- Several Runestone projects including Ethcing, Minting, Airdrop, Raffle/Auction houses, Launchpad, Marketplace
 - Built P2E Games like Dice, Spinner(Roulette), RNGs(Random Number Generators), Moonshot, CoinFlip
-- Made Smart contracts and utility tokens
+- Deployed Smart contracts and utility tokens
 - DEX, Defi, DAO, Dapps
     
 ⚡ These are languages and frameworks I mostly use:
