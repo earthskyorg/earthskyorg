@@ -1,6 +1,6 @@
 <h1 align="left"> Hi, everyone! 👋🙋‍♂️ </h1>
 
- ![pump.fun fork, pump.fun bundling, meme coin launchpad, web3 game development, jackpot, crash, minesweeper, tower, dice, bot development, cli bot, telegram bot, solana token sniper, discord bot](./git/slider.gif) 
+ [pump.fun fork, pump.fun bundling, meme coin launchpad, web3 game development, jackpot, crash, minesweeper, tower, dice, bot development, cli bot, telegram bot, solana token sniper, discord bot](./git/slider.gif) 
 
 🌱 Experience & Interests
 
