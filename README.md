@@ -20,7 +20,7 @@
 #### Connect with me
 <p align="left">
 <a href="https://twitter.com/nkTech4Btc" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="Bitmain Twitter" height="24" width="25" /></a>
-<a href="https://t.me/opensea712" target="blank"><img align="center" src="https://seeklogo.com/images/T/telegram-new-2019-logo-060F2D4B81-seeklogo.com.png" alt="₿TC-$OD telegram: opensea712" height="25" width="25" /></a>
-<a href="https://discord.gg/989350497716695080" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-logo-7A1EC3216C-seeklogo.com.png" alt="₿TC-$OD: discord #989350497716695080" height="25" width="25" /></a>
+<a href="https://t.me/opensea712" target="blank"><img align="center" src="https://seeklogo.com/images/T/telegram-new-2019-logo-060F2D4B81-seeklogo.com.png" alt="₿TC-$OD telegram: opensea712" height="25" width="25" /></a> </br>
+<img align="center" src="https://seeklogo.com/images/D/discord-logo-7A1EC3216C-seeklogo.com.png" alt="₿TC-$OD: discord #989350497716695080" height="25" width="25" /> ( btcgod5642 )
 </p>
   
