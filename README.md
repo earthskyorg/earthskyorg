@@ -9,10 +9,10 @@
 - DEX, Defi, DAO, Dapps
     
 ⚡ These are languages and frameworks I mostly use:
-  
+- OP_NET and Stacks to write smart contracts in Bitcoin 
 - Solidity programming (ERC-20, 721, 721A, 1155) to write various contracts
 - Rust and Anchor framework
-- Web3 integration
+- Web3 integration (bitcoinjs, wagmi, etherjs)
 - Next.js or Nuxt.js or Angular
 - Node or Go or Python or Ruby or Laravel
 - MongoDB or MySQL or Postgre or Oracle
@@ -21,6 +21,5 @@
 <p align="left">
 <a href="https://twitter.com/nkTech4Btc" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="Bitmain Twitter" height="24" width="25" /></a>
 <a href="https://t.me/opensea712" target="blank"><img align="center" src="https://seeklogo.com/images/T/telegram-new-2019-logo-060F2D4B81-seeklogo.com.png" alt="₿TC-$OD telegram: opensea712" height="25" width="25" /></a> </br></br>
-<img align="center" src="https://seeklogo.com/images/D/discord-logo-7A1EC3216C-seeklogo.com.png" alt="₿TC-$OD: discord id is btcgod5642" height="25" width="25" /> ( btcgod5642 )
 </p>
   
