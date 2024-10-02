@@ -9,7 +9,7 @@
 - DEX, Defi, DAO, Dapps
     
 ⚡ These are languages and frameworks I mostly use:
-- OP_NET and Stacks to write smart contracts in Bitcoin 
+- OP_NET and Stacks to write smart contracts on Bitcoin 
 - Solidity programming (ERC-20, 721, 721A, 1155) to write various contracts
 - Rust and Anchor framework
 - Web3 integration (bitcoinjs, wagmi, etherjs)
