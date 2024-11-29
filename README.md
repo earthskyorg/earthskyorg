@@ -18,9 +18,13 @@
 - Node or Go or Python or Ruby or Laravel
 - MongoDB or MySQL or Postgre or Oracle
   
-#### Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
+#### <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp; Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ </h2>
 <p align="left">
-<a href="https://twitter.com/nkTech4Btc" target="blank"><img align="center" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png" alt="Bitmain Twitter" height="24" width="25" /></a>
-<a href="https://t.me/opensea712" target="blank"><img align="center" src="https://seeklogo.com/images/T/telegram-new-2019-logo-060F2D4B81-seeklogo.com.png" alt="₿TC-$OD telegram: opensea712" height="25" width="25" /></a> </br></br>
+  <a href="https://x.com/nkTech4Btc" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/opensea712" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/926111902650732585" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
+  &nbsp;&nbsp;
 </p>
   
