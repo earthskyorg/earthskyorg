@@ -9,6 +9,7 @@
 - DEX, Defi, DAO, Dapps
     
 <h2> ⚡ Tʜᴇꜱᴇ ᴀʀᴇ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ғʀᴀᴍᴇᴡᴏʀᴋꜱ I ᴍᴏꜱᴛʟʏ ᴜꜱᴇ </h2>
+
 - OP_NET, Fractal and Stacks to write smart contracts on Bitcoin 
 - Solidity programming (ERC-20, 721, 721A, 1155) to write various contracts
 - Rust and Anchor framework
