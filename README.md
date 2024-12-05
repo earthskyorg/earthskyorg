@@ -7,6 +7,7 @@
 - Built P2E Games like Dice, Spinner(Roulette), RNGs(Random Number Generators), Moonshot, CoinFlip
 - Deployed Smart contracts and utility tokens
 - DEX, Defi, DAO, Dapps
+- Market Maker Bots (Raydium Volume Bot, Meteora Volume Bot, Raydium Sniper, Pumpfun Sniper, Raydium Bundler, Pumpfun Bundler, Copy Trading Bot, Token Freezer, Twitter Raid Bot, Twitter Reply Bot)
     
 <h2> ⚡ Tʜᴇꜱᴇ ᴀʀᴇ ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ғʀᴀᴍᴇᴡᴏʀᴋꜱ I ᴍᴏꜱᴛʟʏ ᴜꜱᴇ </h2>
 
