@@ -19,7 +19,7 @@
 - Node or Go or Python or Ruby or Laravel
 - MongoDB or MySQL or Postgre or Oracle
   
-#### <h2> 🌐&nbsp; Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ </h2>
+#### <h2> 🌐 Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ </h2>
 <p align="left">
   <a href="https://x.com/nkTech4Btc" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png"  width="50" /></a>
   &nbsp;&nbsp;
