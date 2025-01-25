@@ -22,6 +22,7 @@
   
 #### <h2> 🌐 Cᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ </h2>
 <p align="left">
+  <a href="https://x.com/shinytechapes" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/twitter.png"  width="50" /></a>
   <a href="https://t.me/opensea712" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://discordapp.com/users/926111902650732585" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
